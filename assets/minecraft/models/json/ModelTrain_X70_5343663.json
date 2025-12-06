@@ -4,7 +4,7 @@
 
   "trainModel2": {
       "modelFile": "X70a.mqoz",
-      "textures": [["mat2", "textures/train/X70/X70_5343663.png"]]
+      "textures": [["mat2", "textures/train/x70/X70_5343663.png"]]
   },
   "bogieModel2": {
       "modelFile": "zk6x70.mqoz",
@@ -12,7 +12,7 @@
       "rendererPath":"scripts/Render_zk6x70lun.js"
   },
   "isSingleTrain": true,
-  "buttonTexture": "textures/train/X70/button_X70_5343663.png",
+  "buttonTexture": "textures/train/x70/button_X70_5343663.png",
   "sound_BrakeRelease": "train.o220_release",
   "sound_BrakeRelease2": "train.brakeR_w",
   "sound_DoorOpen": "train.door",

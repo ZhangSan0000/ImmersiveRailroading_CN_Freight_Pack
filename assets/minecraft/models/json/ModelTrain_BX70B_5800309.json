@@ -3,9 +3,9 @@
   "trainType": "CC",
 
   "trainModel2": {
-      "modelFile": "BX70B.mqoz",
+      "modelFile": "bx70b.mqoz",
       "textures": [["mat2", "textures/train/BX70B/bx70b_5800309.png"],
-                   ["mat3", "textures/train/BX70B/CRRC_QIQIHAR.png"]]
+                   ["mat101", "textures/train/zhangsan/fengguan.png"]]
   },
   "bogieModel2": {
     "modelFile": "zk6bx70b.mqoz",

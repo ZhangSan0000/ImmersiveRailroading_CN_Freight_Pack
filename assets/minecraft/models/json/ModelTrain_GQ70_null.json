@@ -7,7 +7,8 @@
       "textures": [["mat1", "textures/train/gq70/gq70_null/mat1.png"],
                    ["mat2", "textures/train/gq70/gq70_null/mat2.png"],
                    ["mat3", "textures/train/gq70/gq70_null/mat3.png"],
-                   ["mat4", "textures/train/gq70/gq70_null/mat4.png"]]
+                   ["mat4", "textures/train/gq70/gq70_null/mat4.png"],
+                   ["mat101", "textures/train/zhangsan/fengguan.png"]]
   },
   "bogieModel2": {
       "modelFile": "zk6gq70.mqoz",
