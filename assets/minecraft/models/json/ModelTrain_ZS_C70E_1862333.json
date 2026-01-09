@@ -6,7 +6,7 @@
       "modelFile": "c70e.mqoz",
       "textures": [["mat1", "textures/train/c70/c70e_1862333/c70e.png"],
                    ["mat3", "textures/train/c70/CRRC_QIQIHAR.png"],
-                   ["mat4", "textures/train/c70/c70e_1862333/c70e.png"],
+                   ["mat4", "textures/train/c70/c70e_1862333/c70e2.png"],
                    ["mat101", "textures/train/zhangsan/fengguan.png"]]
   },
   "bogieModel2": {

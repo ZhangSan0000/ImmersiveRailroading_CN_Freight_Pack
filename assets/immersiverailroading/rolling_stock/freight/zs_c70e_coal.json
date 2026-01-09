@@ -51,16 +51,7 @@
 		"rear_slack":0.005
 	},
 
-    "sounds":{
-		"wheels": "sounds/default/track.ogg",
-		"flange_min_yaw":0.5,
-		"flange":"sounds/default/curve_noise.ogg",
-		"sliding":"sounds/default/freight_brake.ogg",
-		"collision": "sounds/default/collision.ogg",
-		"coupling": "sounds/default/coupling.ogg",
-        "couple":"immersiverailroading:models/rolling_stock/freight/zs_couple.ogg",
-		"clack": "sounds/default/freight2wheel.ogg",
-		"clack_front": "sounds/default/freight2_2wheel_fast.ogg",
-		"clack_rear": "sounds/default/freight2_2wheel.ogg"
+    "sounds": {
+		  "couple":"immersiverailroading:models/rolling_stock/freight/zs_couple.ogg"
 	}
 }
