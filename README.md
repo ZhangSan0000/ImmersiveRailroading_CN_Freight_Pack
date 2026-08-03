@@ -1,5 +1,8 @@
 # ZhangSan2333's_CN_Freight_Pack
 
+Bug Report: 1397309995@qq.com
+问题反馈邮箱:1397309995@qq.com
+
 简体中文  [English](./README_en_US.md)
 
 ![图片](./image.jpg "图片")
